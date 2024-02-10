@@ -55,7 +55,7 @@ I can see a clear difference more predominantly between LT High School Students 
 favstats(WORDSUM~DEGREE,data=GSScsv)
 ```
 
-
+I can see that Graduates have the highest median value nongst all other categories. In addition, the third quartile values of high school, students and light high school students are relatively close and smaller than all the other values. The light high school students have the overall lowest sedian and mean values.
 
 ## Inferential Results
 
